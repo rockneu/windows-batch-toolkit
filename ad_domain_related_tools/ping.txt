@@ -1,0 +1,88 @@
+12:10
+
+D:\tech\source\batch>pause
+请按任意键继续. . . 
+
+D:\tech\source\batch>rem for /l i -n 1 
+
+D:\tech\source\batch>for /L %i in (1 1 5) do ping 192.168.8.%i -n 1 
+
+D:\tech\source\batch>ping 192.168.8.1 -n 1 
+
+D:\tech\source\batch>pause
+请按任意键继续. . . 
+
+D:\tech\source\batch>rem for /l i -n 1 
+
+D:\tech\source\batch>for /L %i in (1 1 5) do ping 192.168.8.%i -n 1 
+
+D:\tech\source\batch>ping 192.168.8.1 -n 1 
+
+D:\tech\source\batch>pause
+请按任意键继续. . . 
+
+D:\tech\source\batch>rem for /l i -n 1 
+
+D:\tech\source\batch>for /L %i in (1 1 5) do ping 192.168.8.%i -n 1 
+
+D:\tech\source\batch>ping 192.168.8.1 -n 1 
+
+D:\tech\source\batch>pause
+请按任意键继续. . . 
+
+D:\tech\source\batch>rem for /l i -n 1 
+
+D:\tech\source\batch>for /L %i in (1 1 5) do ping 192.168.8.%i -n 1 
+
+D:\tech\source\batch>ping 192.168.8.1 -n 1 
+
+D:\tech\source\batch>pause
+请按任意键继续. . . 
+终止批处理操作吗(Y/N)? 终止批处理操作吗(Y/N)? 终止批处理操作吗(Y/N)? 终止批处理操作吗(Y/N)? 
+
+D:\tech\source\batch>rem for /l i -n 1 
+
+D:\tech\source\batch>for /L %i in (1 1 5) do ping 192.168.8.%i -n 1 
+
+D:\tech\source\batch>ping 192.168.8.1 -n 1 
+
+D:\tech\source\batch>pause
+请按任意键继续. . . 
+终止批处理操作吗(Y/N)? 
+
+D:\tech\source\batch>rem for /l i -n 1 
+
+D:\tech\source\batch>for /L %i in (1 1 5) do ping 192.168.8.%i -n 1 
+
+D:\tech\source\batch>ping 192.168.8.1 -n 1 
+
+D:\tech\source\batch>pause
+请按任意键继续. . . 
+终止批处理操作吗(Y/N)? 终止批处理操作吗(Y/N)? 终止批处理操作吗(Y/N)? 
+
+D:\tech\source\batch>rem for /l i -n 1 
+
+D:\tech\source\batch>for /L %i in (1 1 5) do ping 192.168.8.%i -n 1 
+
+D:\tech\source\batch>ping 192.168.8.1 -n 1 
+
+D:\tech\source\batch>pause
+请按任意键继续. . . 
+
+D:\tech\source\batch>rem for /l i -n 1 
+
+D:\tech\source\batch>for /L %i in (1 1 5) do ping 192.168.8.%i -n 1 
+
+D:\tech\source\batch>ping 192.168.8.1 -n 1 
+
+D:\tech\source\batch>pause
+请按任意键继续. . . 
+
+D:\tech\source\batch>rem for /l i -n 1 
+
+D:\tech\source\batch>for /L %i in (1 1 5) do ping 192.168.8.%i -n 1 
+
+D:\tech\source\batch>ping 192.168.8.1 -n 1 
+
+D:\tech\source\batch>pause
+请按任意键继续. . . 
